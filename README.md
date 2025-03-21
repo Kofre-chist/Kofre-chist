@@ -13,6 +13,10 @@
 ![Static Badge](https://img.shields.io/badge/gnubash-grey?style=for-the-badge&logo=gnubash&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/linux-E1D9D1?style=for-the-badge&logo=linux&logoColor=black)
 
+#### Auxiliary tools
+![Static Badge](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white)
+
 <!--
 **Kofre-chist/Kofre-chist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
